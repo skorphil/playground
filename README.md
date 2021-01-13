@@ -1,1 +1,1 @@
-Hello that's my first git and python file
+Hello that's my first repo and python file
