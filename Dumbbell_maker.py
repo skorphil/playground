@@ -53,7 +53,7 @@ for obj in plate_list:
 
 ## Available bars
 # bar_1 = Bar(7, 2)
-# bar_2 = Bar(4, 1)
+# bar_2 = Bar(4, 2)
 bar_list = []
 bar_list.append(Bar(7, 2))
 bar_list.append(Bar(4, 1))
