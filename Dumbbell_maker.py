@@ -45,7 +45,7 @@ plate_list.append(Plate(2.5, width=2))
 plate_list.append(Plate(1, "white", material="cast_iron"))
 plate_list.append(Plate(1, "white", material="cast_iron"))
 plate_list.append(Plate(1, "black", material="cast_iron"))
-plate_list.append(Plate(0.5, "white"))
+plate_list.append(Plate(0.5, "red"))
 
 for obj in plate_list:
     print(obj.weight, obj.color, obj.material, obj.width, sep=", ")
