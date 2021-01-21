@@ -1,4 +1,4 @@
-# The set of plates is given. The task is to calculate all weight variations for single dumbbell.
+# The set of plates is given. The task is to calculate all weight variations for single dumbbelllllll
 
 ## Plate with some default attributes. Let's assume they also can have different width.
 
